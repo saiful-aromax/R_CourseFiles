@@ -1,5 +1,5 @@
 # File:   InstallingR.R
-# Course: R: An Introduction (with RStudio)
+# Course: R: An Introduction (with RStudio) TEst by Aromax
 
 # LOAD DATA ################################################
 
