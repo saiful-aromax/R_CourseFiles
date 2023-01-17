@@ -16,6 +16,8 @@ head(iris)
 
 plot(iris$Species)  # Categorical variable
 plot(iris$Petal.Length)  # Quantitative variable
+plot(iris$Petal.Width)  # Quantitative variable
+plot(iris$Species, iris$Petal.Length)  # Cat x quant
 plot(iris$Species, iris$Petal.Width)  # Cat x quant
 plot(iris$Petal.Length, iris$Petal.Width)  # Quant pair
 plot(iris)  # Entire data frame
